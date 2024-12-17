@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ashutosh-Chauhan3025
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently pursuing B-Tech in Computer Science 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -:
 - email -> ashutoshchauhan3025@gmail.com
 - linkedIn ->https://www.linkedin.com/in/ashutosh-chauhan-11a92224b/
